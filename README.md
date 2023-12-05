@@ -14,20 +14,7 @@ This repository contains the source code for a Deepfake detection website. Users
 - **User Feedback**: Mechanism for users to provide feedback on detection results.
 - **Security**: Implementation of secure video uploads, user authentication, and protection against common web vulnerabilities.
 
-## Getting Started
-+---------------------+        +-----------------------+         +--------------------------+
-|   User Interface    |        |    Backend Server     |         |    Deepfake Detection    |
-|                     |        |                       |         |      Model/Algorithm     |
-|  Upload Video ----->|        |                       |         |                          |
-|                     |        |                       |         |                          |
-|                     |        |   - Video Processing  |         |                          |
-|                     |        |   - Feature Extraction|         |                          |
-|                     |        |   - Model Inference   |         |                          |
-|                     |        |   - Result Generation |         |                          |
-|                     |        |                       |         |                          |
-|                     |        |                       |         |                          |
-|  View Results <-----|        |                       |         |                          |
-+---------------------+        +-----------------------+         +--------------------------+
+
 
 ### Prerequisites
 
