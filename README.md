@@ -18,9 +18,7 @@ This repository contains the source code for a Deepfake detection website. Users
 
 ### Prerequisites
 
-- Python (version x.x)
-- Node.js (version x.x)
-- Additional dependencies...
+- Python (version 3.9)
 
 ### Installation
 
